@@ -1,0 +1,8 @@
+# Exported from Render on 2025-03-08T12:25:52Z
+services:
+- type: web
+  name: earn
+  runtime: static
+  repo: https://github.com/madriano-dev/earn
+  staticPublishPath: .build
+version: "1"
